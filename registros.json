@@ -1,0 +1,2303 @@
+{"products": [
+	{
+		"Id": "5747f6c2-86f0-4ba7-bf93-cc884d623c90",
+		"Title": "Producto c017de9e-762b-4879-bb17-8795bfdbe11c",
+		"OriginalPrice": 217,
+		"DiscountPrice": 104,
+		"DiscountPercentage": "44%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "72", "Amount": "41280" },
+		"Rating": { "Rating": 3.4, "Amount": 4204 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3531 },
+			{ "Rating": "Bad", "Amount": 4774 },
+			{ "Rating": "Regular", "Amount": 2096 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "83156dd0-43e9-42de-9596-574d249a62da",
+			"Name": "Categoría c996c4ee-9ac6-4ca9-8398-a97c37d3bfe9"
+		}
+	},
+	{
+		"Id": "80319cbb-b04b-4be7-99b0-f1c50f1af553",
+		"Title": "Producto aa91496d-72c8-4c7a-937d-2c92b4b037a3",
+		"OriginalPrice": 130,
+		"DiscountPrice": 199,
+		"DiscountPercentage": "88%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "52", "Amount": "30518" },
+		"Rating": { "Rating": 4.8, "Amount": 1738 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 996 },
+			{ "Rating": "Bad", "Amount": 4219 },
+			{ "Rating": "Regular", "Amount": 622 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "4637dbc0-1837-44b8-a150-094fe7015963",
+			"Name": "Categoría 45aec925-b8c5-41ae-b30b-88477d090686"
+		}
+	},
+	{
+		"Id": "e7df1933-7f4c-44f7-85ec-1bb396664c51",
+		"Title": "Producto 84d30518-1774-4d6a-992b-d27a881b7964",
+		"OriginalPrice": 224,
+		"DiscountPrice": 139,
+		"DiscountPercentage": "47%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "76", "Amount": "26005" },
+		"Rating": { "Rating": 3.3, "Amount": 904 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1030 },
+			{ "Rating": "Bad", "Amount": 1872 },
+			{ "Rating": "Regular", "Amount": 4059 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "39bb2b78-aff2-4ef1-8f25-c7e6649659c5",
+			"Name": "Categoría 01840b94-fa22-441a-bf8a-d7535e001d57"
+		}
+	},
+	{
+		"Id": "58cf4f62-e128-44cb-9568-d9174fd921b8",
+		"Title": "Producto 384d9e63-4a36-4614-b52e-38b699ee9fc8",
+		"OriginalPrice": 470,
+		"DiscountPrice": 169,
+		"DiscountPercentage": "20%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "48", "Amount": "42847" },
+		"Rating": { "Rating": 3.6, "Amount": 1797 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1516 },
+			{ "Rating": "Bad", "Amount": 2841 },
+			{ "Rating": "Regular", "Amount": 1001 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "cf97a1b3-d75f-4779-823e-6fbf9832b65b",
+			"Name": "Categoría ff2bc721-d193-4c78-9104-b20916cc1a34"
+		}
+	},
+	{
+		"Id": "7c7d10f6-5513-4829-b073-cd0f5c298a35",
+		"Title": "Producto 879414d9-c3bf-4cbb-b4d7-c9c1fc493951",
+		"OriginalPrice": 209,
+		"DiscountPrice": 139,
+		"DiscountPercentage": "13%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "70", "Amount": "21600" },
+		"Rating": { "Rating": 4.5, "Amount": 1402 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2132 },
+			{ "Rating": "Bad", "Amount": 928 },
+			{ "Rating": "Regular", "Amount": 4641 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "095c2e38-0fea-4452-a504-ea1d1c2ba78f",
+			"Name": "Categoría 66e138c2-4293-400b-b067-ceab3d629ac5"
+		}
+	},
+	{
+		"Id": "c689aaf7-bb89-408f-b738-83f05d2d351b",
+		"Title": "Producto 2dce211a-a0f0-4584-bd10-0a4bb3d1ff3d",
+		"OriginalPrice": 447,
+		"DiscountPrice": 156,
+		"DiscountPercentage": "12%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "90", "Amount": "15455" },
+		"Rating": { "Rating": 2.9, "Amount": 3755 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 250 },
+			{ "Rating": "Bad", "Amount": 986 },
+			{ "Rating": "Regular", "Amount": 3049 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "3a1ba5bf-2750-40d8-8a52-1ae7caa8f9f8",
+			"Name": "Categoría bafa3012-23c7-4ee0-825d-dfbb0e56fd14"
+		}
+	},
+	{
+		"Id": "3ae86f64-6d88-4fa4-8c11-18ecb640e670",
+		"Title": "Producto ea3fbe00-5927-4f58-8cf7-1855cbc59786",
+		"OriginalPrice": 327,
+		"DiscountPrice": 146,
+		"DiscountPercentage": "10%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "73", "Amount": "16100" },
+		"Rating": { "Rating": 4.7, "Amount": 3373 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3065 },
+			{ "Rating": "Bad", "Amount": 2244 },
+			{ "Rating": "Regular", "Amount": 745 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "c711ec5a-66de-45d3-9dfa-b93defa89389",
+			"Name": "Categoría 75e5d672-9410-4f2c-993a-ec17c9b53c3a"
+		}
+	},
+	{
+		"Id": "508ff4e3-b020-488d-b16f-1b85a5c1ad5e",
+		"Title": "Producto 2eb6f7c9-9249-4c93-81bc-2bc449242bc3",
+		"OriginalPrice": 165,
+		"DiscountPrice": 174,
+		"DiscountPercentage": "21%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "53", "Amount": "39941" },
+		"Rating": { "Rating": 3.7, "Amount": 664 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 689 },
+			{ "Rating": "Bad", "Amount": 2376 },
+			{ "Rating": "Regular", "Amount": 2497 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "0be33e79-0baa-40d8-b229-3daae2cc406a",
+			"Name": "Categoría e2670eaf-36bc-4768-b286-d7803f9fceee"
+		}
+	},
+	{
+		"Id": "e87f5dc3-193d-46b1-a1c8-66fb60a6a30e",
+		"Title": "Producto 055a1034-2633-459b-abf2-5271ee157cf9",
+		"OriginalPrice": 237,
+		"DiscountPrice": 86,
+		"DiscountPercentage": "73%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "51", "Amount": "19530" },
+		"Rating": { "Rating": 4.0, "Amount": 1119 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4438 },
+			{ "Rating": "Bad", "Amount": 163 },
+			{ "Rating": "Regular", "Amount": 2416 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "7202c6b4-4ad7-4859-96fc-f456e4759783",
+			"Name": "Categoría b4252277-9a11-4ddb-a0f6-bc3b4c04e749"
+		}
+	},
+	{
+		"Id": "81a35b0a-8243-4dcd-8339-7152946f8478",
+		"Title": "Producto 467e7c40-965a-4118-8280-b6de03a75eef",
+		"OriginalPrice": 194,
+		"DiscountPrice": 119,
+		"DiscountPercentage": "58%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "31", "Amount": "35087" },
+		"Rating": { "Rating": 1.6, "Amount": 1549 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2660 },
+			{ "Rating": "Bad", "Amount": 1433 },
+			{ "Rating": "Regular", "Amount": 2188 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "fb38c539-9934-4e05-bb7f-adb213c04804",
+			"Name": "Categoría fb25b9fb-1e01-4a26-a7d6-116299300290"
+		}
+	},
+	{
+		"Id": "ca36fc7f-6f12-4420-bae9-c549de0bb8b7",
+		"Title": "Producto 6ee87bbf-e62a-43ae-b3c5-b27aaa71a49a",
+		"OriginalPrice": 243,
+		"DiscountPrice": 151,
+		"DiscountPercentage": "58%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "53", "Amount": "49133" },
+		"Rating": { "Rating": 1.4, "Amount": 247 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4344 },
+			{ "Rating": "Bad", "Amount": 1732 },
+			{ "Rating": "Regular", "Amount": 3988 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "5f4bc446-a153-42eb-8709-6d96535cbf85",
+			"Name": "Categoría 4005c74f-001f-499c-9a89-7e2776f03f69"
+		}
+	},
+	{
+		"Id": "60a682e3-5dbb-48c1-9a26-44bc833e3ada",
+		"Title": "Producto a998f777-f62e-4b70-8927-63a9a2c18970",
+		"OriginalPrice": 255,
+		"DiscountPrice": 113,
+		"DiscountPercentage": "66%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "81", "Amount": "22921" },
+		"Rating": { "Rating": 3.8, "Amount": 4545 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3270 },
+			{ "Rating": "Bad", "Amount": 4991 },
+			{ "Rating": "Regular", "Amount": 3884 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "7c5aa7df-768c-4cf9-9973-caaf09c361f2",
+			"Name": "Categoría b4c20a1e-25b3-4727-b6a9-46e59048b469"
+		}
+	},
+	{
+		"Id": "42d8d781-bcd9-45e8-bec6-0618887f5f08",
+		"Title": "Producto 7e0eda08-7234-4981-9382-84e25835bab8",
+		"OriginalPrice": 190,
+		"DiscountPrice": 99,
+		"DiscountPercentage": "77%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "76", "Amount": "38505" },
+		"Rating": { "Rating": 4.1, "Amount": 4973 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 382 },
+			{ "Rating": "Bad", "Amount": 4237 },
+			{ "Rating": "Regular", "Amount": 2639 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "217edddb-c501-4ff6-b077-87b474a08045",
+			"Name": "Categoría 6e029a72-3e51-4e25-8533-00206707f3f9"
+		}
+	},
+	{
+		"Id": "ecc9dec7-d492-4f62-a36c-10d2bf063a59",
+		"Title": "Producto 528f4ee5-c7da-4c83-95b2-ee0fc2406200",
+		"OriginalPrice": 177,
+		"DiscountPrice": 95,
+		"DiscountPercentage": "57%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "31", "Amount": "42080" },
+		"Rating": { "Rating": 2.8, "Amount": 4950 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1387 },
+			{ "Rating": "Bad", "Amount": 4298 },
+			{ "Rating": "Regular", "Amount": 1633 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "4d372380-f12c-469f-9d1c-5590e4f2ed3f",
+			"Name": "Categoría 31646751-f2a4-4919-b486-54a0a4b64c35"
+		}
+	},
+	{
+		"Id": "20a7dd71-aeeb-45ad-becb-4272300df0ec",
+		"Title": "Producto a8bd2b3f-fdd7-4f9e-a58c-bffe57657b74",
+		"OriginalPrice": 386,
+		"DiscountPrice": 85,
+		"DiscountPercentage": "47%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "47", "Amount": "12166" },
+		"Rating": { "Rating": 2.9, "Amount": 3248 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4351 },
+			{ "Rating": "Bad", "Amount": 2260 },
+			{ "Rating": "Regular", "Amount": 168 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "c50ff128-25f2-4276-adf2-bbae69d17d38",
+			"Name": "Categoría 503c6c1f-b276-4fb1-8b3a-b93af52c33ac"
+		}
+	},
+	{
+		"Id": "4b6b3e20-aa66-43a1-9687-705f8de0d9cf",
+		"Title": "Producto f0301707-2ecf-4df9-9890-4fb52afa10aa",
+		"OriginalPrice": 348,
+		"DiscountPrice": 73,
+		"DiscountPercentage": "10%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "47", "Amount": "14023" },
+		"Rating": { "Rating": 3.9, "Amount": 3323 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1366 },
+			{ "Rating": "Bad", "Amount": 1048 },
+			{ "Rating": "Regular", "Amount": 1816 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "3af47bbe-92d2-4593-a228-e0c46057e74b",
+			"Name": "Categoría d902c4bc-8055-4dd8-9a3d-0b8169043b72"
+		}
+	},
+	{
+		"Id": "b2db6865-2f89-49c2-9f15-6fde0bb8bc96",
+		"Title": "Producto fd952d6c-c75a-4ffa-b9c7-0b6d900fece2",
+		"OriginalPrice": 207,
+		"DiscountPrice": 138,
+		"DiscountPercentage": "76%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "51", "Amount": "47891" },
+		"Rating": { "Rating": 2.5, "Amount": 790 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 510 },
+			{ "Rating": "Bad", "Amount": 1796 },
+			{ "Rating": "Regular", "Amount": 3086 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "7889df72-ac63-4a20-a112-8ec6d376e9c0",
+			"Name": "Categoría 7d1ca24a-5550-40dc-8c55-db765ab9ad9f"
+		}
+	},
+	{
+		"Id": "fa45231a-c1b6-4b3c-bc46-6f445c0fbd69",
+		"Title": "Producto 15690e7e-f4d6-42e7-9855-93a83b680c2e",
+		"OriginalPrice": 249,
+		"DiscountPrice": 145,
+		"DiscountPercentage": "55%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "61", "Amount": "13038" },
+		"Rating": { "Rating": 2.4, "Amount": 3993 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1320 },
+			{ "Rating": "Bad", "Amount": 4469 },
+			{ "Rating": "Regular", "Amount": 401 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "b7daa716-7013-485b-809f-5b4a581cc7a5",
+			"Name": "Categoría 0f926c73-a528-4125-9683-ea66d4d3476c"
+		}
+	},
+	{
+		"Id": "4539d6d1-2476-4758-9378-b2ce80ea96a3",
+		"Title": "Producto d4519c13-de85-4566-9e55-4370c4f72629",
+		"OriginalPrice": 127,
+		"DiscountPrice": 67,
+		"DiscountPercentage": "33%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "87", "Amount": "44134" },
+		"Rating": { "Rating": 3.2, "Amount": 3640 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3987 },
+			{ "Rating": "Bad", "Amount": 434 },
+			{ "Rating": "Regular", "Amount": 4956 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "a274a03e-aad0-4424-8bda-49157257c665",
+			"Name": "Categoría fe9ce18e-42f7-4e31-8f57-bb022e2bb556"
+		}
+	},
+	{
+		"Id": "f9db338d-d9c6-4b9a-86bd-9405c437d41f",
+		"Title": "Producto 6a0db997-3446-484e-a312-45662ed9a455",
+		"OriginalPrice": 109,
+		"DiscountPrice": 152,
+		"DiscountPercentage": "15%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "66", "Amount": "14780" },
+		"Rating": { "Rating": 3.4, "Amount": 3994 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3760 },
+			{ "Rating": "Bad", "Amount": 3939 },
+			{ "Rating": "Regular", "Amount": 4323 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "bdfcd1b5-2771-4df9-a107-7c77f6d6a008",
+			"Name": "Categoría e6a89e02-c1eb-4e0a-918c-73163b034177"
+		}
+	},
+	{
+		"Id": "2c00e007-c00a-4a4a-9d09-153510eb6050",
+		"Title": "Producto bde46884-9d8e-4e05-a3b7-270868c8161b",
+		"OriginalPrice": 488,
+		"DiscountPrice": 130,
+		"DiscountPercentage": "71%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "82", "Amount": "12224" },
+		"Rating": { "Rating": 4.3, "Amount": 996 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1534 },
+			{ "Rating": "Bad", "Amount": 4327 },
+			{ "Rating": "Regular", "Amount": 4850 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "0cc68efc-ae52-4151-91c6-6f5fbf8c8232",
+			"Name": "Categoría c135526a-cb99-4042-be33-c341eb6cd49b"
+		}
+	},
+	{
+		"Id": "7f037929-feab-4515-a3ca-420749aa4288",
+		"Title": "Producto 8317ddfa-d0b1-4504-b812-ac882424e5ac",
+		"OriginalPrice": 292,
+		"DiscountPrice": 169,
+		"DiscountPercentage": "65%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "84", "Amount": "35608" },
+		"Rating": { "Rating": 3.8, "Amount": 301 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1326 },
+			{ "Rating": "Bad", "Amount": 3676 },
+			{ "Rating": "Regular", "Amount": 2197 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "4bae736c-286a-4d34-b45b-fff9eae313e6",
+			"Name": "Categoría 6d729ad8-112d-42fc-bccf-8e1e6d2ed14e"
+		}
+	},
+	{
+		"Id": "eb84f0dc-1864-4af2-8d60-14f64c039d39",
+		"Title": "Producto cf7855cf-66ca-442e-9f1b-0483f5b15519",
+		"OriginalPrice": 249,
+		"DiscountPrice": 129,
+		"DiscountPercentage": "79%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "79", "Amount": "49352" },
+		"Rating": { "Rating": 4.3, "Amount": 559 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 23 },
+			{ "Rating": "Bad", "Amount": 1540 },
+			{ "Rating": "Regular", "Amount": 88 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "e1003b65-56d6-4b1a-a2bd-2a1e94cd2b00",
+			"Name": "Categoría b76d00b5-1c1d-48c5-871e-d5ccf05f9043"
+		}
+	},
+	{
+		"Id": "0ad205fb-5dfa-4d8f-9579-6b902e150583",
+		"Title": "Producto 6e461612-c881-49be-8db9-b5fa164078ec",
+		"OriginalPrice": 326,
+		"DiscountPrice": 68,
+		"DiscountPercentage": "38%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "46", "Amount": "21522" },
+		"Rating": { "Rating": 3.8, "Amount": 1014 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4451 },
+			{ "Rating": "Bad", "Amount": 4984 },
+			{ "Rating": "Regular", "Amount": 4126 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "a7442718-84e2-4312-839a-d0f57b33adc8",
+			"Name": "Categoría 1355a83f-7ddf-486e-8beb-5b23366a6331"
+		}
+	},
+	{
+		"Id": "cc05d6ad-26eb-4f5f-adc2-12567d6e8469",
+		"Title": "Producto a9316fde-e6b4-4a24-8324-c3b4a4fc3d52",
+		"OriginalPrice": 359,
+		"DiscountPrice": 124,
+		"DiscountPercentage": "89%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "60", "Amount": "39334" },
+		"Rating": { "Rating": 3.8, "Amount": 2807 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2940 },
+			{ "Rating": "Bad", "Amount": 4035 },
+			{ "Rating": "Regular", "Amount": 4511 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "e8aa13e0-697e-4e4d-ae46-164218e4f9ac",
+			"Name": "Categoría de64c25a-9351-4c80-a450-fd42c758f4f5"
+		}
+	},
+	{
+		"Id": "118207bd-4953-42ed-aae5-bbd3620f1f05",
+		"Title": "Producto 04ec712d-c912-493f-b0a9-5811f90bdd28",
+		"OriginalPrice": 489,
+		"DiscountPrice": 70,
+		"DiscountPercentage": "59%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "55", "Amount": "43138" },
+		"Rating": { "Rating": 1.4, "Amount": 3574 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3372 },
+			{ "Rating": "Bad", "Amount": 3629 },
+			{ "Rating": "Regular", "Amount": 3913 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "f20b1a2c-c7b2-41a2-81d6-f7dd49d0669b",
+			"Name": "Categoría df47a9b7-f89e-4655-bca2-5bd792fbd036"
+		}
+	},
+	{
+		"Id": "2843de68-e330-4373-845c-0bb03025da7b",
+		"Title": "Producto a68dd5cc-c1e2-460c-bcf5-d2e5ee509c6b",
+		"OriginalPrice": 143,
+		"DiscountPrice": 69,
+		"DiscountPercentage": "51%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "49", "Amount": "27307" },
+		"Rating": { "Rating": 1.1, "Amount": 2972 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 119 },
+			{ "Rating": "Bad", "Amount": 4647 },
+			{ "Rating": "Regular", "Amount": 946 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "0d13c36c-f0a8-414c-a042-616391f7e59a",
+			"Name": "Categoría 21f44c1d-5651-4028-919c-702635636225"
+		}
+	},
+	{
+		"Id": "6949e998-3d95-47ee-8bb6-6c0e09a7b162",
+		"Title": "Producto a13cf092-dff8-4ce8-8eb5-627bd1b3f15e",
+		"OriginalPrice": 129,
+		"DiscountPrice": 196,
+		"DiscountPercentage": "42%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "43", "Amount": "14871" },
+		"Rating": { "Rating": 3.4, "Amount": 621 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 255 },
+			{ "Rating": "Bad", "Amount": 299 },
+			{ "Rating": "Regular", "Amount": 4690 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "ca926fdd-8a9c-4b6f-ac3e-7f7fbb0dadbf",
+			"Name": "Categoría 573b9952-f4a7-49e1-a339-f55effef04d7"
+		}
+	},
+	{
+		"Id": "aed28a00-f1cc-41c5-aa49-1bbd515b3b1d",
+		"Title": "Producto 4fe31111-b95c-48c0-bca6-d230f2402a17",
+		"OriginalPrice": 500,
+		"DiscountPrice": 75,
+		"DiscountPercentage": "55%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "70", "Amount": "19619" },
+		"Rating": { "Rating": 1.8, "Amount": 2891 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2311 },
+			{ "Rating": "Bad", "Amount": 1822 },
+			{ "Rating": "Regular", "Amount": 1390 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "835b2065-b50c-407f-b8f0-f4377e03f8af",
+			"Name": "Categoría a0105d5b-8dec-4555-8312-b58860241590"
+		}
+	},
+	{
+		"Id": "467d5775-2d59-4ec1-ae71-1c43b02eda32",
+		"Title": "Producto 6ebf0c16-8e80-4159-8b8b-c6add1d6f192",
+		"OriginalPrice": 473,
+		"DiscountPrice": 88,
+		"DiscountPercentage": "67%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "66", "Amount": "39581" },
+		"Rating": { "Rating": 2.0, "Amount": 2538 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1626 },
+			{ "Rating": "Bad", "Amount": 4678 },
+			{ "Rating": "Regular", "Amount": 888 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "bd1bfff9-541d-401b-a1ac-ed7703bc1f65",
+			"Name": "Categoría e4d3cf36-81a6-4fd3-bb0f-2e7bbe492b94"
+		}
+	},
+	{
+		"Id": "5c6ac1bc-f2ea-4c85-bcf8-db84ebee62c6",
+		"Title": "Producto 5baafe47-615d-435a-8096-2713c6b74a32",
+		"OriginalPrice": 345,
+		"DiscountPrice": 61,
+		"DiscountPercentage": "11%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "58", "Amount": "41518" },
+		"Rating": { "Rating": 2.6, "Amount": 1952 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2376 },
+			{ "Rating": "Bad", "Amount": 0 },
+			{ "Rating": "Regular", "Amount": 1019 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "ed668a29-e7a6-49a1-88b7-eaacbcc53741",
+			"Name": "Categoría 2f532350-0059-43bb-8fb6-259a08be9674"
+		}
+	},
+	{
+		"Id": "4204b096-e211-492d-8727-157db807e9ea",
+		"Title": "Producto 894cf797-1d32-4742-bbef-4ec820261cd8",
+		"OriginalPrice": 205,
+		"DiscountPrice": 120,
+		"DiscountPercentage": "83%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "81", "Amount": "23281" },
+		"Rating": { "Rating": 2.0, "Amount": 2302 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 277 },
+			{ "Rating": "Bad", "Amount": 2821 },
+			{ "Rating": "Regular", "Amount": 4396 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "15e3c79c-372f-4ea7-86e4-675382bd0ea4",
+			"Name": "Categoría 195d8669-e68f-47f3-b74f-af0fa9e2cb36"
+		}
+	},
+	{
+		"Id": "cc58ade0-6cfe-4b52-8b01-33b521bba294",
+		"Title": "Producto 9d720b0a-bb13-4115-855c-fde37c4cd2fa",
+		"OriginalPrice": 456,
+		"DiscountPrice": 51,
+		"DiscountPercentage": "39%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "70", "Amount": "43152" },
+		"Rating": { "Rating": 4.2, "Amount": 1292 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4257 },
+			{ "Rating": "Bad", "Amount": 2672 },
+			{ "Rating": "Regular", "Amount": 2192 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "4de0673b-f67a-4da2-9a96-ee004541eeca",
+			"Name": "Categoría 5c6209ec-adcc-4815-a503-28dc5c23ba9f"
+		}
+	},
+	{
+		"Id": "1b81c0f0-78b7-432e-a3bc-47084174f7af",
+		"Title": "Producto d5d0e1df-daa8-49e8-8d26-9171a1eaffab",
+		"OriginalPrice": 112,
+		"DiscountPrice": 123,
+		"DiscountPercentage": "38%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "70", "Amount": "42946" },
+		"Rating": { "Rating": 5.0, "Amount": 11 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2629 },
+			{ "Rating": "Bad", "Amount": 2133 },
+			{ "Rating": "Regular", "Amount": 2396 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "ad9a5d5f-77d9-4800-b84c-221ea980b08f",
+			"Name": "Categoría 0481e4b2-211d-4b2c-ade5-d306890af477"
+		}
+	},
+	{
+		"Id": "219c4423-357b-4fa5-b18c-fc9cd0a10eb4",
+		"Title": "Producto 8bff7d52-3976-4272-bf42-8a8fc5b43275",
+		"OriginalPrice": 213,
+		"DiscountPrice": 125,
+		"DiscountPercentage": "80%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "84", "Amount": "26843" },
+		"Rating": { "Rating": 4.4, "Amount": 1965 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1324 },
+			{ "Rating": "Bad", "Amount": 3992 },
+			{ "Rating": "Regular", "Amount": 1618 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "9b2de9cf-46ab-441e-915c-ccd053c40943",
+			"Name": "Categoría 69f6b650-dfaf-4c4a-8d21-13bb290ffae1"
+		}
+	},
+	{
+		"Id": "6b9b403f-d3e8-4b73-97f2-1d90a2091aa7",
+		"Title": "Producto f7c0cfb9-b4a3-4429-8ac9-5e47f4dda610",
+		"OriginalPrice": 349,
+		"DiscountPrice": 66,
+		"DiscountPercentage": "53%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "64", "Amount": "29795" },
+		"Rating": { "Rating": 2.4, "Amount": 3017 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1856 },
+			{ "Rating": "Bad", "Amount": 3199 },
+			{ "Rating": "Regular", "Amount": 4101 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "9d9b69bd-894d-40d7-b923-97df3840737c",
+			"Name": "Categoría cc056a18-8060-46a7-b21e-7644214cc106"
+		}
+	},
+	{
+		"Id": "84d1b43e-698a-43f7-aaea-53e8a7cc4ce0",
+		"Title": "Producto 2ccb7e24-0d28-4969-b37d-bdb1a005706d",
+		"OriginalPrice": 307,
+		"DiscountPrice": 171,
+		"DiscountPercentage": "71%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "51", "Amount": "25480" },
+		"Rating": { "Rating": 4.5, "Amount": 4232 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3655 },
+			{ "Rating": "Bad", "Amount": 3146 },
+			{ "Rating": "Regular", "Amount": 3008 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "73e554f6-8eb7-4d09-a803-1fb80b217786",
+			"Name": "Categoría 66318781-6d2c-4733-873d-8abf4272bf71"
+		}
+	},
+	{
+		"Id": "de1b168b-91bc-46f4-9c38-df3347d2f3e4",
+		"Title": "Producto 13e573bc-9ba9-4857-9c4b-f5e17fa94270",
+		"OriginalPrice": 347,
+		"DiscountPrice": 144,
+		"DiscountPercentage": "36%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "32", "Amount": "33519" },
+		"Rating": { "Rating": 3.2, "Amount": 4745 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 956 },
+			{ "Rating": "Bad", "Amount": 2272 },
+			{ "Rating": "Regular", "Amount": 684 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "2af5d7d5-4daf-4631-ba04-915fc68a95a2",
+			"Name": "Categoría ee91dfb5-7cd8-437c-aa57-e29de5c1171e"
+		}
+	},
+	{
+		"Id": "6c4b1983-65a5-41f3-8b90-bd216d14f03b",
+		"Title": "Producto 79654120-c2c7-401b-8036-8fdb5eda7a60",
+		"OriginalPrice": 464,
+		"DiscountPrice": 174,
+		"DiscountPercentage": "59%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "86", "Amount": "27900" },
+		"Rating": { "Rating": 3.8, "Amount": 3273 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3097 },
+			{ "Rating": "Bad", "Amount": 4843 },
+			{ "Rating": "Regular", "Amount": 3116 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "65681791-1397-4c26-bfbb-e7f3f6b87d69",
+			"Name": "Categoría d653d511-bbe8-422f-ba1f-ebffaa451f74"
+		}
+	},
+	{
+		"Id": "716fc641-d724-4f1b-b425-d19c5b16473b",
+		"Title": "Producto c7686121-6cb8-4bba-941e-754ddb8cbc05",
+		"OriginalPrice": 394,
+		"DiscountPrice": 104,
+		"DiscountPercentage": "25%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "79", "Amount": "19911" },
+		"Rating": { "Rating": 3.1, "Amount": 544 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2795 },
+			{ "Rating": "Bad", "Amount": 1930 },
+			{ "Rating": "Regular", "Amount": 2586 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "089d85f1-854e-41a7-a260-394580c08643",
+			"Name": "Categoría 66508604-391a-4b0b-813a-87d85bf2e218"
+		}
+	},
+	{
+		"Id": "530f8688-049a-431d-8c79-bc4d32fa967c",
+		"Title": "Producto ef2f0b01-39fa-4620-8dbc-59e04393a87c",
+		"OriginalPrice": 110,
+		"DiscountPrice": 115,
+		"DiscountPercentage": "48%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "53", "Amount": "35770" },
+		"Rating": { "Rating": 1.8, "Amount": 2264 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2246 },
+			{ "Rating": "Bad", "Amount": 702 },
+			{ "Rating": "Regular", "Amount": 4345 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "1e678069-4017-49de-8a43-ec29a9030aae",
+			"Name": "Categoría 6295f6bb-0bfc-4e40-984f-f912964ecb07"
+		}
+	},
+	{
+		"Id": "27d0b06b-4e20-42db-8fd3-d6c95970515a",
+		"Title": "Producto 60f80bff-d74c-45fa-9c0d-483aa9b4d836",
+		"OriginalPrice": 164,
+		"DiscountPrice": 179,
+		"DiscountPercentage": "75%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "68", "Amount": "49490" },
+		"Rating": { "Rating": 3.2, "Amount": 1919 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 674 },
+			{ "Rating": "Bad", "Amount": 1839 },
+			{ "Rating": "Regular", "Amount": 140 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "fde73762-652f-4f2e-ab40-1bb4662a64a9",
+			"Name": "Categoría 2d282fe5-6c9b-4d48-897f-533474fe785d"
+		}
+	},
+	{
+		"Id": "b05f81aa-78fb-4d69-b222-0a46a600f70b",
+		"Title": "Producto cf191358-658c-4974-9c46-f06c41608247",
+		"OriginalPrice": 166,
+		"DiscountPrice": 102,
+		"DiscountPercentage": "89%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "45", "Amount": "28909" },
+		"Rating": { "Rating": 3.8, "Amount": 2793 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2492 },
+			{ "Rating": "Bad", "Amount": 585 },
+			{ "Rating": "Regular", "Amount": 2147 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "52afb979-f69c-4c20-9fa7-0278bf2c6848",
+			"Name": "Categoría a82b835a-a385-4e1e-a88f-4d8c38e316c1"
+		}
+	},
+	{
+		"Id": "3aca3ef3-c3bf-46b8-b4ad-acb2d0a4a013",
+		"Title": "Producto 7ce670d1-a144-4de5-8a31-059ee9660e89",
+		"OriginalPrice": 475,
+		"DiscountPrice": 97,
+		"DiscountPercentage": "52%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "53", "Amount": "42924" },
+		"Rating": { "Rating": 1.1, "Amount": 2692 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2793 },
+			{ "Rating": "Bad", "Amount": 4697 },
+			{ "Rating": "Regular", "Amount": 4196 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "133c3f1a-d807-4db7-af11-875b195c68b1",
+			"Name": "Categoría 9021b3e6-aa78-4412-bbff-17a11d853cca"
+		}
+	},
+	{
+		"Id": "22e19ce8-f898-4b31-8b79-1a41d7bba7bd",
+		"Title": "Producto 2b38daa8-08ec-4703-b100-4157f4d01980",
+		"OriginalPrice": 466,
+		"DiscountPrice": 57,
+		"DiscountPercentage": "60%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "54", "Amount": "35155" },
+		"Rating": { "Rating": 2.3, "Amount": 4996 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 417 },
+			{ "Rating": "Bad", "Amount": 1905 },
+			{ "Rating": "Regular", "Amount": 272 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "1d54b816-9e27-4741-8fed-6dedd4ae831f",
+			"Name": "Categoría 523101ce-d3bd-46da-94ac-49d547c5842e"
+		}
+	},
+	{
+		"Id": "1c947375-b56d-4ca7-a6c7-87aca299675a",
+		"Title": "Producto b59260b2-6f74-420e-8c09-e9b5e74b4ca2",
+		"OriginalPrice": 398,
+		"DiscountPrice": 153,
+		"DiscountPercentage": "58%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "71", "Amount": "42875" },
+		"Rating": { "Rating": 5.0, "Amount": 677 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3653 },
+			{ "Rating": "Bad", "Amount": 3175 },
+			{ "Rating": "Regular", "Amount": 3852 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "d919a3af-0e1e-46d9-b94d-5d268c57ec39",
+			"Name": "Categoría 93acee01-69eb-40fe-8b0d-423278172ab8"
+		}
+	},
+	{
+		"Id": "2830672e-21a9-4c9d-b4c1-ac8d0cea709a",
+		"Title": "Producto ce2aa995-4f60-48a6-a305-e2bfd263c52b",
+		"OriginalPrice": 439,
+		"DiscountPrice": 142,
+		"DiscountPercentage": "82%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "48", "Amount": "13160" },
+		"Rating": { "Rating": 3.3, "Amount": 2339 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1284 },
+			{ "Rating": "Bad", "Amount": 3762 },
+			{ "Rating": "Regular", "Amount": 3659 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "1cd920ae-83e9-4618-9be2-649b0151a36b",
+			"Name": "Categoría 622f98ab-cc30-4ca3-b876-734a17c35cd1"
+		}
+	},
+	{
+		"Id": "7773eaaa-2053-465b-938c-6409b88d9e0c",
+		"Title": "Producto 648cc5ad-5662-4792-bf65-42e831cdc0b4",
+		"OriginalPrice": 212,
+		"DiscountPrice": 78,
+		"DiscountPercentage": "78%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "46", "Amount": "13123" },
+		"Rating": { "Rating": 3.9, "Amount": 2963 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2969 },
+			{ "Rating": "Bad", "Amount": 1581 },
+			{ "Rating": "Regular", "Amount": 3214 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "1a277e47-2bae-4958-a359-c256864dca08",
+			"Name": "Categoría 524625de-c3f5-480d-b2fb-94dac94b07fc"
+		}
+	},
+	{
+		"Id": "6a0a0546-dd53-4085-9edf-b3a844bba890",
+		"Title": "Producto b3f90586-1b98-4282-88b4-3c0f1b8e0345",
+		"OriginalPrice": 460,
+		"DiscountPrice": 197,
+		"DiscountPercentage": "83%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "70", "Amount": "25227" },
+		"Rating": { "Rating": 3.1, "Amount": 2588 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1079 },
+			{ "Rating": "Bad", "Amount": 440 },
+			{ "Rating": "Regular", "Amount": 1133 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "0a1497e3-d2c7-4cfe-9eaa-03d7fcd1c3e4",
+			"Name": "Categoría 0cb2feab-66ed-4a60-8f67-f6b21544269b"
+		}
+	},
+	{
+		"Id": "0aba72dc-02c6-4ab3-a998-0e39a3b3bf42",
+		"Title": "Producto 6badfd1f-0443-474f-9334-2687287ed63a",
+		"OriginalPrice": 281,
+		"DiscountPrice": 152,
+		"DiscountPercentage": "52%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "49", "Amount": "23879" },
+		"Rating": { "Rating": 3.3, "Amount": 1486 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 708 },
+			{ "Rating": "Bad", "Amount": 3917 },
+			{ "Rating": "Regular", "Amount": 1272 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "95533ac9-f1cf-41f1-96b0-880d2f517a5b",
+			"Name": "Categoría 6dfe2f36-477b-4e49-b826-5006067865b8"
+		}
+	},
+	{
+		"Id": "e04f4c99-b119-45ed-a20f-87e1d6f97b08",
+		"Title": "Producto 24a57393-681d-4b5c-bb2f-d6536caeb75b",
+		"OriginalPrice": 212,
+		"DiscountPrice": 149,
+		"DiscountPercentage": "68%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "83", "Amount": "31729" },
+		"Rating": { "Rating": 1.1, "Amount": 1492 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4774 },
+			{ "Rating": "Bad", "Amount": 1014 },
+			{ "Rating": "Regular", "Amount": 1778 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "27882588-c446-4b77-a912-e435240217a9",
+			"Name": "Categoría 3f9dfac8-4021-44ae-803a-5fea9995414f"
+		}
+	},
+	{
+		"Id": "202f074b-e248-4593-8d72-89c8b44f0a98",
+		"Title": "Producto 13f0bc2a-d204-4a97-afa2-fce96fb6d712",
+		"OriginalPrice": 312,
+		"DiscountPrice": 91,
+		"DiscountPercentage": "89%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "68", "Amount": "11564" },
+		"Rating": { "Rating": 3.2, "Amount": 2352 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2382 },
+			{ "Rating": "Bad", "Amount": 3340 },
+			{ "Rating": "Regular", "Amount": 513 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "5aaa9479-644f-4a4f-a789-ab344c7ca117",
+			"Name": "Categoría f0009b02-2e23-42f3-b21e-39c0a866185f"
+		}
+	},
+	{
+		"Id": "9796dcdd-561f-4917-90f8-dae767f88551",
+		"Title": "Producto ed1e6333-35cd-4c12-a53b-451635cfcfa7",
+		"OriginalPrice": 478,
+		"DiscountPrice": 139,
+		"DiscountPercentage": "41%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "80", "Amount": "40702" },
+		"Rating": { "Rating": 3.3, "Amount": 2558 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 201 },
+			{ "Rating": "Bad", "Amount": 684 },
+			{ "Rating": "Regular", "Amount": 1479 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "12ca350c-a342-4ce0-bc26-f8f499283d3a",
+			"Name": "Categoría 2fa89a60-9009-4b66-84b0-522f510466bf"
+		}
+	},
+	{
+		"Id": "554c0344-0ccd-48a2-bf44-2b797cda8139",
+		"Title": "Producto d1ab423a-08d8-43d0-b913-fa24d29b6188",
+		"OriginalPrice": 360,
+		"DiscountPrice": 148,
+		"DiscountPercentage": "11%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "81", "Amount": "49864" },
+		"Rating": { "Rating": 3.0, "Amount": 3154 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3023 },
+			{ "Rating": "Bad", "Amount": 4714 },
+			{ "Rating": "Regular", "Amount": 766 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "b85bf68b-3189-46f0-9738-308d89f91379",
+			"Name": "Categoría c58dfa6a-768e-4e30-a860-24248eb80d19"
+		}
+	},
+	{
+		"Id": "2aca65e2-afca-4854-8b4c-27638a135bed",
+		"Title": "Producto 907432e9-9ca2-4569-a669-c8e1d8e0d357",
+		"OriginalPrice": 346,
+		"DiscountPrice": 115,
+		"DiscountPercentage": "73%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "38", "Amount": "31690" },
+		"Rating": { "Rating": 4.3, "Amount": 4146 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2165 },
+			{ "Rating": "Bad", "Amount": 3788 },
+			{ "Rating": "Regular", "Amount": 4994 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "82a33408-82c3-46f8-a3ab-2929bda7907c",
+			"Name": "Categoría cd177353-50a5-4e57-af03-6322ddd66577"
+		}
+	},
+	{
+		"Id": "07662000-8166-4632-bd06-9210c84bce0d",
+		"Title": "Producto d398a74c-06a7-4481-88e6-62a0c0379b10",
+		"OriginalPrice": 147,
+		"DiscountPrice": 162,
+		"DiscountPercentage": "35%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "40", "Amount": "20976" },
+		"Rating": { "Rating": 4.0, "Amount": 3222 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1491 },
+			{ "Rating": "Bad", "Amount": 4093 },
+			{ "Rating": "Regular", "Amount": 4668 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "f0ff8482-6b38-488c-92c9-92e21c0936fe",
+			"Name": "Categoría b176a04f-0903-4d54-a750-5124d9e32eb6"
+		}
+	},
+	{
+		"Id": "87a0e47d-b7f9-41f2-9c14-e4a3066d8249",
+		"Title": "Producto 517f729f-151b-438e-88d7-f1b4fb28fb43",
+		"OriginalPrice": 162,
+		"DiscountPrice": 124,
+		"DiscountPercentage": "22%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "44", "Amount": "40561" },
+		"Rating": { "Rating": 1.5, "Amount": 397 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 688 },
+			{ "Rating": "Bad", "Amount": 3100 },
+			{ "Rating": "Regular", "Amount": 4425 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "eabbb938-5d68-48c5-9089-d2e753b10ff7",
+			"Name": "Categoría 543f3d6f-1f5b-4877-9216-fb9c107c396a"
+		}
+	},
+	{
+		"Id": "46af254b-852e-45a1-be57-32e1b5e8d708",
+		"Title": "Producto 50e57d02-d537-44d5-bdab-8e30c16e87da",
+		"OriginalPrice": 129,
+		"DiscountPrice": 149,
+		"DiscountPercentage": "58%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "84", "Amount": "21151" },
+		"Rating": { "Rating": 3.2, "Amount": 2948 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 434 },
+			{ "Rating": "Bad", "Amount": 912 },
+			{ "Rating": "Regular", "Amount": 2208 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "2d163074-80ac-4e64-a190-9d71564c8dc6",
+			"Name": "Categoría bada62ef-06cc-445a-bf3e-4531a0e33713"
+		}
+	},
+	{
+		"Id": "d0e63fe6-5964-4a7f-8d51-b747e266fc84",
+		"Title": "Producto a7cfcc56-f19b-4571-a408-e69b4bfbcc65",
+		"OriginalPrice": 327,
+		"DiscountPrice": 189,
+		"DiscountPercentage": "23%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "83", "Amount": "23728" },
+		"Rating": { "Rating": 3.3, "Amount": 64 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3007 },
+			{ "Rating": "Bad", "Amount": 3915 },
+			{ "Rating": "Regular", "Amount": 3679 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "82a9485f-ecc5-483c-95fa-14c40450887f",
+			"Name": "Categoría bece6245-d887-4eb1-8725-3cc887f2358f"
+		}
+	},
+	{
+		"Id": "ff994a5f-b3b2-4dd1-8de2-a806ff47b91b",
+		"Title": "Producto 3294c062-1082-4d42-8bb5-fb4898cb30ec",
+		"OriginalPrice": 321,
+		"DiscountPrice": 128,
+		"DiscountPercentage": "65%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "30", "Amount": "26152" },
+		"Rating": { "Rating": 1.7, "Amount": 2315 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4299 },
+			{ "Rating": "Bad", "Amount": 3157 },
+			{ "Rating": "Regular", "Amount": 507 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "ab3a398d-cd2f-43b5-9ba8-10906ab1cc00",
+			"Name": "Categoría 1bce9fa9-c25c-4864-822a-fb96531b600f"
+		}
+	},
+	{
+		"Id": "91028915-74e8-48bc-a730-278eb456f45e",
+		"Title": "Producto f9e1d344-9a32-4df8-9c0f-2b670a99073f",
+		"OriginalPrice": 146,
+		"DiscountPrice": 200,
+		"DiscountPercentage": "81%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "56", "Amount": "31487" },
+		"Rating": { "Rating": 1.6, "Amount": 1046 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4260 },
+			{ "Rating": "Bad", "Amount": 3854 },
+			{ "Rating": "Regular", "Amount": 3473 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "3dab0da2-11d6-4ce6-a213-4b2737d60908",
+			"Name": "Categoría 2ffbb990-1e23-4e5b-b47e-db6214e78936"
+		}
+	},
+	{
+		"Id": "2ff46484-f7f5-437f-954f-c40c71c65bb4",
+		"Title": "Producto b9437a1b-4ec7-4572-9f40-d464d1d65658",
+		"OriginalPrice": 499,
+		"DiscountPrice": 188,
+		"DiscountPercentage": "42%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "83", "Amount": "14287" },
+		"Rating": { "Rating": 2.0, "Amount": 2410 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4237 },
+			{ "Rating": "Bad", "Amount": 3359 },
+			{ "Rating": "Regular", "Amount": 3777 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "ffa3820f-b73e-49e0-8810-1691860e49ad",
+			"Name": "Categoría 583920e6-4318-4cae-8d94-653f3e4f40e9"
+		}
+	},
+	{
+		"Id": "506a76bc-4814-4954-bf8e-bbbb5b108466",
+		"Title": "Producto d8446704-d395-4c87-9a3b-b51c8758bb4f",
+		"OriginalPrice": 297,
+		"DiscountPrice": 76,
+		"DiscountPercentage": "11%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "76", "Amount": "29536" },
+		"Rating": { "Rating": 3.2, "Amount": 4458 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1853 },
+			{ "Rating": "Bad", "Amount": 1764 },
+			{ "Rating": "Regular", "Amount": 1168 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "9685e281-2482-4dd2-93c5-f92d9578059c",
+			"Name": "Categoría 73668c29-e551-46df-8588-27a422a1ef49"
+		}
+	},
+	{
+		"Id": "b5fc871d-f772-4b1e-9c5c-0adb2c4233d9",
+		"Title": "Producto e7d328c8-51f0-4b0d-93ea-cf64fd3028ff",
+		"OriginalPrice": 489,
+		"DiscountPrice": 65,
+		"DiscountPercentage": "75%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "54", "Amount": "31365" },
+		"Rating": { "Rating": 1.0, "Amount": 4884 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1138 },
+			{ "Rating": "Bad", "Amount": 2765 },
+			{ "Rating": "Regular", "Amount": 1968 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "acc899ae-b541-48ec-91e8-f5c0d97a7dfb",
+			"Name": "Categoría 6a47a6a7-05bd-46be-8964-0615262e5719"
+		}
+	},
+	{
+		"Id": "e7e717fe-94be-48bd-b4be-afa94c462621",
+		"Title": "Producto 3be3d2ec-d142-4d18-836c-7b200d0761e0",
+		"OriginalPrice": 485,
+		"DiscountPrice": 76,
+		"DiscountPercentage": "84%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "51", "Amount": "16223" },
+		"Rating": { "Rating": 2.7, "Amount": 2010 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2144 },
+			{ "Rating": "Bad", "Amount": 3903 },
+			{ "Rating": "Regular", "Amount": 3903 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "f2e2ad35-7513-4cae-8c7d-c4c38fe0ba55",
+			"Name": "Categoría 50c4bea1-9e59-4aac-925e-94047a6ee9de"
+		}
+	},
+	{
+		"Id": "e8c8dadd-4346-4c55-a222-c1c094bd7b35",
+		"Title": "Producto 5e80efd1-e657-4b3c-8053-1c16e9a16a01",
+		"OriginalPrice": 320,
+		"DiscountPrice": 160,
+		"DiscountPercentage": "69%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "71", "Amount": "14624" },
+		"Rating": { "Rating": 2.8, "Amount": 1076 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4605 },
+			{ "Rating": "Bad", "Amount": 1499 },
+			{ "Rating": "Regular", "Amount": 3518 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "93cb2e9f-0c90-4b62-99f3-55b372a0267b",
+			"Name": "Categoría 08b4e96f-d162-4d72-9473-7bbada5a3eb7"
+		}
+	},
+	{
+		"Id": "76cf660f-4032-4353-a1eb-cc758c5a5f7d",
+		"Title": "Producto d0d46b4e-13d1-424e-920c-6cd877cff59e",
+		"OriginalPrice": 425,
+		"DiscountPrice": 151,
+		"DiscountPercentage": "75%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "49", "Amount": "49779" },
+		"Rating": { "Rating": 3.2, "Amount": 4568 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 466 },
+			{ "Rating": "Bad", "Amount": 1581 },
+			{ "Rating": "Regular", "Amount": 554 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "70c9df72-34f5-4b71-9d83-2103e8998160",
+			"Name": "Categoría 22eeb956-9367-498d-b7e7-15758f223c43"
+		}
+	},
+	{
+		"Id": "814579db-b099-4a3d-bfdd-b6a2602c58aa",
+		"Title": "Producto 57dab150-8d0e-4c93-a5e0-49c6d113f2c8",
+		"OriginalPrice": 254,
+		"DiscountPrice": 189,
+		"DiscountPercentage": "15%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "63", "Amount": "31774" },
+		"Rating": { "Rating": 2.4, "Amount": 1037 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 479 },
+			{ "Rating": "Bad", "Amount": 2669 },
+			{ "Rating": "Regular", "Amount": 4584 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "73c6a030-f028-462b-886b-8301f59e85e6",
+			"Name": "Categoría 4933bd1b-e27b-4204-b4f5-4237d6858bf5"
+		}
+	},
+	{
+		"Id": "6f0f709d-5cc0-48f5-b70e-0300cb7c67b3",
+		"Title": "Producto 6c664a92-07b0-492f-978b-15f045ec0b9f",
+		"OriginalPrice": 420,
+		"DiscountPrice": 92,
+		"DiscountPercentage": "87%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "70", "Amount": "41370" },
+		"Rating": { "Rating": 3.1, "Amount": 1102 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4406 },
+			{ "Rating": "Bad", "Amount": 1081 },
+			{ "Rating": "Regular", "Amount": 80 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "3c2be04c-31cb-4fe4-8389-7ce7a71f0a4d",
+			"Name": "Categoría 21ec52a5-bd80-4d35-bab4-f39ed3bb71ca"
+		}
+	},
+	{
+		"Id": "9b0a3a49-10d6-461e-b1e8-789482e51ab8",
+		"Title": "Producto a03b296b-0106-4c86-9cbf-0bd0c9259d16",
+		"OriginalPrice": 113,
+		"DiscountPrice": 176,
+		"DiscountPercentage": "60%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "60", "Amount": "11221" },
+		"Rating": { "Rating": 2.1, "Amount": 3534 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 594 },
+			{ "Rating": "Bad", "Amount": 1934 },
+			{ "Rating": "Regular", "Amount": 1954 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "bcfc03a3-1ad7-4a0b-a2a9-6e14b62e2d7a",
+			"Name": "Categoría b5855f34-3042-45c1-93ff-588ee114ed9a"
+		}
+	},
+	{
+		"Id": "f7fa5e35-8deb-4cc0-a26c-96835d446992",
+		"Title": "Producto 963c8db9-d272-4f95-9bbd-5ed35c065ad3",
+		"OriginalPrice": 360,
+		"DiscountPrice": 188,
+		"DiscountPercentage": "67%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "41", "Amount": "39787" },
+		"Rating": { "Rating": 2.2, "Amount": 2020 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 49 },
+			{ "Rating": "Bad", "Amount": 3661 },
+			{ "Rating": "Regular", "Amount": 1523 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "5a904b09-e15d-4912-929c-7a2876cbd361",
+			"Name": "Categoría 46555533-e8d1-41b1-ada7-1fcd61a86501"
+		}
+	},
+	{
+		"Id": "db22f8f6-79a9-4b83-af8f-735972488d99",
+		"Title": "Producto 5906808a-529b-4029-b38f-0f0b974902dc",
+		"OriginalPrice": 366,
+		"DiscountPrice": 117,
+		"DiscountPercentage": "10%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "56", "Amount": "17995" },
+		"Rating": { "Rating": 3.4, "Amount": 4280 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 906 },
+			{ "Rating": "Bad", "Amount": 1267 },
+			{ "Rating": "Regular", "Amount": 4911 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "b3f0ecf4-a5c3-4050-9ed0-376cfafaabb5",
+			"Name": "Categoría 68c74542-3106-4388-b413-60cf716eff00"
+		}
+	},
+	{
+		"Id": "8bc354b9-cbf2-41e8-a9fb-d5458ff3873a",
+		"Title": "Producto 5158478a-ec2b-4dca-abc1-8fd52bc57432",
+		"OriginalPrice": 114,
+		"DiscountPrice": 112,
+		"DiscountPercentage": "47%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "57", "Amount": "41408" },
+		"Rating": { "Rating": 4.0, "Amount": 4319 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3726 },
+			{ "Rating": "Bad", "Amount": 2618 },
+			{ "Rating": "Regular", "Amount": 225 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "514b6bc2-7613-43ad-a6d6-c8702bcf1b17",
+			"Name": "Categoría 32b8cb45-9ab5-4c56-a638-41cd99a6d50e"
+		}
+	},
+	{
+		"Id": "16b448bc-aa53-4cee-b5cf-5712d122eea7",
+		"Title": "Producto 09a64cdd-99ac-4218-9442-f640e3144002",
+		"OriginalPrice": 310,
+		"DiscountPrice": 189,
+		"DiscountPercentage": "56%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "84", "Amount": "38576" },
+		"Rating": { "Rating": 2.4, "Amount": 2169 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3156 },
+			{ "Rating": "Bad", "Amount": 544 },
+			{ "Rating": "Regular", "Amount": 512 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "c7f34748-189b-422e-91cf-9aeaa251aa52",
+			"Name": "Categoría 2251b7ec-268a-406c-b85a-f796f83c43f0"
+		}
+	},
+	{
+		"Id": "e6091205-97b7-4227-b05a-b9f1e0c6b27e",
+		"Title": "Producto 17be5643-b080-462b-8394-a76d4aa557d7",
+		"OriginalPrice": 329,
+		"DiscountPrice": 93,
+		"DiscountPercentage": "19%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "69", "Amount": "40783" },
+		"Rating": { "Rating": 2.4, "Amount": 700 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4975 },
+			{ "Rating": "Bad", "Amount": 3934 },
+			{ "Rating": "Regular", "Amount": 286 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "aa808b17-7af6-4538-b13a-a21af4446743",
+			"Name": "Categoría 933176df-5c53-474a-9ad2-4d4f1246f006"
+		}
+	},
+	{
+		"Id": "15bde88b-e188-447f-9414-2c8c8ff308e4",
+		"Title": "Producto 0abf706e-9192-45c1-828b-a4dcea47ceec",
+		"OriginalPrice": 264,
+		"DiscountPrice": 138,
+		"DiscountPercentage": "80%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "69", "Amount": "11832" },
+		"Rating": { "Rating": 4.9, "Amount": 1831 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4360 },
+			{ "Rating": "Bad", "Amount": 3775 },
+			{ "Rating": "Regular", "Amount": 136 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "7d8a0ad1-8072-45e3-baae-4905af84a6a3",
+			"Name": "Categoría bc32e211-8da8-4add-b5a1-2ba396093dd5"
+		}
+	},
+	{
+		"Id": "d19210a2-d635-472c-9acc-aec2a5c985aa",
+		"Title": "Producto f68139af-2b72-4ae4-9f89-a17382ffa26c",
+		"OriginalPrice": 216,
+		"DiscountPrice": 68,
+		"DiscountPercentage": "52%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "35", "Amount": "22571" },
+		"Rating": { "Rating": 1.6, "Amount": 2007 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2737 },
+			{ "Rating": "Bad", "Amount": 71 },
+			{ "Rating": "Regular", "Amount": 3147 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "a8f01417-0746-40e9-992c-577ebf63fd74",
+			"Name": "Categoría c6e994d7-aac9-4f5c-af9c-3ba8ac2ad011"
+		}
+	},
+	{
+		"Id": "f2bb7a99-b8b2-4036-9363-11b06b51e7d5",
+		"Title": "Producto 7f583e96-713c-4227-b466-5aba267f0e33",
+		"OriginalPrice": 239,
+		"DiscountPrice": 193,
+		"DiscountPercentage": "43%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "86", "Amount": "16494" },
+		"Rating": { "Rating": 3.5, "Amount": 2641 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1982 },
+			{ "Rating": "Bad", "Amount": 269 },
+			{ "Rating": "Regular", "Amount": 3372 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "42354633-1c6c-4d50-94b7-b69b14937cf8",
+			"Name": "Categoría 3f619019-0088-4dc1-92eb-e2c1f3a0e8c1"
+		}
+	},
+	{
+		"Id": "5ed57e0e-fa6e-4a49-8b3e-8238ba14fb29",
+		"Title": "Producto 35b44b79-c882-4ef1-8d13-5b95e31cb995",
+		"OriginalPrice": 318,
+		"DiscountPrice": 193,
+		"DiscountPercentage": "21%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "31", "Amount": "11162" },
+		"Rating": { "Rating": 2.7, "Amount": 4802 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3166 },
+			{ "Rating": "Bad", "Amount": 4795 },
+			{ "Rating": "Regular", "Amount": 1054 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "aa4d0efa-91f1-4d1f-aa67-f83bf30aa637",
+			"Name": "Categoría 5d1c08fa-27f6-4c34-8838-cb2db84b0c22"
+		}
+	},
+	{
+		"Id": "10aba8eb-0585-423d-96ed-949f8fe430c8",
+		"Title": "Producto ddb4d1f6-e13e-4b14-9609-e8b4c68e6cba",
+		"OriginalPrice": 294,
+		"DiscountPrice": 199,
+		"DiscountPercentage": "75%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "87", "Amount": "38377" },
+		"Rating": { "Rating": 2.4, "Amount": 554 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2733 },
+			{ "Rating": "Bad", "Amount": 1473 },
+			{ "Rating": "Regular", "Amount": 3156 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "dee21cd0-a8e8-4558-9a62-9253eabeaf1a",
+			"Name": "Categoría 4f686ad6-c273-4bcd-8a8d-17e1fce88bac"
+		}
+	},
+	{
+		"Id": "faf8f17f-50c4-425b-8a1c-11cbd7857d01",
+		"Title": "Producto c839b0b8-fce9-4d56-824a-ba8dd50abe3e",
+		"OriginalPrice": 379,
+		"DiscountPrice": 140,
+		"DiscountPercentage": "34%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "54", "Amount": "27195" },
+		"Rating": { "Rating": 1.2, "Amount": 4838 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3576 },
+			{ "Rating": "Bad", "Amount": 3003 },
+			{ "Rating": "Regular", "Amount": 4911 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "13f592a1-d3c1-46ae-8504-d3d2fc2aac54",
+			"Name": "Categoría fd3d1026-d460-4ed7-ba23-cb3eb82381ea"
+		}
+	},
+	{
+		"Id": "3248c6d1-7e6d-48b8-9a29-866ed32c8211",
+		"Title": "Producto 0b7fc3ab-a101-46b7-9ce3-27b785324ac6",
+		"OriginalPrice": 116,
+		"DiscountPrice": 148,
+		"DiscountPercentage": "57%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "70", "Amount": "30791" },
+		"Rating": { "Rating": 2.2, "Amount": 4624 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3993 },
+			{ "Rating": "Bad", "Amount": 268 },
+			{ "Rating": "Regular", "Amount": 220 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "8a3ad23c-148e-450c-8022-5d9d1c6bf5c5",
+			"Name": "Categoría a7e754a1-d42a-4a9a-9c99-e281da8591c1"
+		}
+	},
+	{
+		"Id": "bff100ad-27b0-42c3-a276-ae0fa0361dad",
+		"Title": "Producto f684089d-9c14-41a1-b447-46b85c7e36cb",
+		"OriginalPrice": 236,
+		"DiscountPrice": 100,
+		"DiscountPercentage": "41%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "67", "Amount": "20958" },
+		"Rating": { "Rating": 2.8, "Amount": 3094 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2042 },
+			{ "Rating": "Bad", "Amount": 3348 },
+			{ "Rating": "Regular", "Amount": 786 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "f16a84b3-fb94-4a9a-8162-e140ffab9413",
+			"Name": "Categoría 9ba5024e-c5c5-4606-aeb2-794f8d1b02b1"
+		}
+	},
+	{
+		"Id": "a19441d8-76d1-4b04-86c8-f1570a5b4a7a",
+		"Title": "Producto 3d1d29e5-1c9f-4489-aa23-0b5061d6acaa",
+		"OriginalPrice": 469,
+		"DiscountPrice": 106,
+		"DiscountPercentage": "56%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "36", "Amount": "31064" },
+		"Rating": { "Rating": 2.2, "Amount": 2384 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4484 },
+			{ "Rating": "Bad", "Amount": 1235 },
+			{ "Rating": "Regular", "Amount": 3191 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "f5ae8218-11d3-4ad1-8a56-836d5c7fc0fc",
+			"Name": "Categoría 278018b4-19ec-420b-a0d2-e08ca93e5c78"
+		}
+	},
+	{
+		"Id": "6a1a2e28-adde-4107-a26d-73659bb8f919",
+		"Title": "Producto 303cb84c-a2fd-4dc2-8837-894740664ee6",
+		"OriginalPrice": 116,
+		"DiscountPrice": 88,
+		"DiscountPercentage": "80%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "87", "Amount": "30963" },
+		"Rating": { "Rating": 2.5, "Amount": 1363 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4157 },
+			{ "Rating": "Bad", "Amount": 4949 },
+			{ "Rating": "Regular", "Amount": 405 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "2230aa0f-f7bb-4959-ab70-a8b7ae7750d4",
+			"Name": "Categoría 7522222d-31fa-4e8a-baaf-b2baaf0a487c"
+		}
+	},
+	{
+		"Id": "fb18e55c-527b-42f1-a678-f045c887e88a",
+		"Title": "Producto 4c2d9ff9-0ad5-4532-bf8b-0d519250d1b0",
+		"OriginalPrice": 148,
+		"DiscountPrice": 99,
+		"DiscountPercentage": "81%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "70", "Amount": "32502" },
+		"Rating": { "Rating": 2.9, "Amount": 3381 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 617 },
+			{ "Rating": "Bad", "Amount": 1378 },
+			{ "Rating": "Regular", "Amount": 3414 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "276f44b9-ad5b-47e6-974a-51607f875de5",
+			"Name": "Categoría 893e413a-190e-4af7-aba0-8ea8637ef3b5"
+		}
+	},
+	{
+		"Id": "e6825084-5e30-4451-aa9e-00e71135cb59",
+		"Title": "Producto ea2a8a69-d9f4-4c92-8438-8866f49c4b38",
+		"OriginalPrice": 214,
+		"DiscountPrice": 84,
+		"DiscountPercentage": "85%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "89", "Amount": "31721" },
+		"Rating": { "Rating": 2.8, "Amount": 2168 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1041 },
+			{ "Rating": "Bad", "Amount": 1213 },
+			{ "Rating": "Regular", "Amount": 4269 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "57b31fe1-1f64-48bd-9644-194b243f72dc",
+			"Name": "Categoría 96e1ce14-bb19-4d7b-9fd2-c3064efb1fc1"
+		}
+	},
+	{
+		"Id": "fd9c3ad1-e8a4-4512-8717-ad7be982a794",
+		"Title": "Producto 6d138c90-dadd-471e-af73-ea3500a836a1",
+		"OriginalPrice": 300,
+		"DiscountPrice": 92,
+		"DiscountPercentage": "54%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "33", "Amount": "30390" },
+		"Rating": { "Rating": 2.7, "Amount": 1535 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 767 },
+			{ "Rating": "Bad", "Amount": 4171 },
+			{ "Rating": "Regular", "Amount": 1833 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "fc91699f-b14d-4b00-8033-005da3c035e6",
+			"Name": "Categoría a7288ce4-87ee-4962-b0a4-f8b43d70e8cd"
+		}
+	},
+	{
+		"Id": "19fd0c66-8866-42ff-b554-264f4ac60950",
+		"Title": "Producto 3ac0a3d5-8b78-4ae8-9bcf-973cb3a87dae",
+		"OriginalPrice": 380,
+		"DiscountPrice": 184,
+		"DiscountPercentage": "83%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "52", "Amount": "30831" },
+		"Rating": { "Rating": 2.7, "Amount": 4414 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 332 },
+			{ "Rating": "Bad", "Amount": 2833 },
+			{ "Rating": "Regular", "Amount": 2348 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "9c32f321-1829-45eb-8781-e438b2526282",
+			"Name": "Categoría ba02af4f-a14f-4495-8903-6f774b2dceff"
+		}
+	},
+	{
+		"Id": "2cdcee82-82fc-4dcb-9b15-94e9671177c6",
+		"Title": "Producto 3ae7a972-0a7c-47a3-8443-8456eb6fe05d",
+		"OriginalPrice": 196,
+		"DiscountPrice": 91,
+		"DiscountPercentage": "45%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "57", "Amount": "12314" },
+		"Rating": { "Rating": 4.3, "Amount": 2129 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1137 },
+			{ "Rating": "Bad", "Amount": 3438 },
+			{ "Rating": "Regular", "Amount": 3017 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "8a4d4cba-6e3b-4518-a010-99cd37cc9212",
+			"Name": "Categoría d0c04c95-043b-48e4-ba14-e566f535ca33"
+		}
+	},
+	{
+		"Id": "acf0f32b-f376-4fa1-b5a3-25e2b31938eb",
+		"Title": "Producto 3916bb8f-84df-4e70-a803-3ea45648d4c8",
+		"OriginalPrice": 310,
+		"DiscountPrice": 130,
+		"DiscountPercentage": "44%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "76", "Amount": "36282" },
+		"Rating": { "Rating": 1.3, "Amount": 1847 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4296 },
+			{ "Rating": "Bad", "Amount": 2693 },
+			{ "Rating": "Regular", "Amount": 3598 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "d4df6a1c-98cc-45e5-9ff9-1d09f2fee7f8",
+			"Name": "Categoría c637d73a-3d8b-41ee-8211-d6ee82c5d6d5"
+		}
+	},
+	{
+		"Id": "421fd860-293e-490b-b24b-8369a22e5f23",
+		"Title": "Producto f9a1f06f-1414-47a9-9383-12208d02205e",
+		"OriginalPrice": 344,
+		"DiscountPrice": 177,
+		"DiscountPercentage": "16%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "39", "Amount": "32090" },
+		"Rating": { "Rating": 3.7, "Amount": 3813 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4361 },
+			{ "Rating": "Bad", "Amount": 2627 },
+			{ "Rating": "Regular", "Amount": 2822 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "f920273b-c163-44a4-8acc-f2960259225f",
+			"Name": "Categoría 762f63a2-80d8-4c37-b2ca-e64739cf4d9c"
+		}
+	},
+	{
+		"Id": "5348aec0-1ca5-4305-b9f6-8dc81b59734e",
+		"Title": "Producto 2dabc160-d84a-4147-841e-3250f2c6c9aa",
+		"OriginalPrice": 108,
+		"DiscountPrice": 106,
+		"DiscountPercentage": "86%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "38", "Amount": "31892" },
+		"Rating": { "Rating": 3.5, "Amount": 4357 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4562 },
+			{ "Rating": "Bad", "Amount": 4193 },
+			{ "Rating": "Regular", "Amount": 121 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "89530490-629a-4b34-a146-2753d19fefcd",
+			"Name": "Categoría 4e23cfdd-6069-41b9-a7c9-a44a761fa07a"
+		}
+	},
+	{
+		"Id": "e94fff99-8a73-4257-b487-92e2bf958964",
+		"Title": "Producto 6decd3fa-98de-4794-93aa-c8eb7076086d",
+		"OriginalPrice": 378,
+		"DiscountPrice": 83,
+		"DiscountPercentage": "42%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "50", "Amount": "36643" },
+		"Rating": { "Rating": 1.5, "Amount": 2928 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4446 },
+			{ "Rating": "Bad", "Amount": 1562 },
+			{ "Rating": "Regular", "Amount": 2100 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "511852ec-e156-440a-a85e-1f780d174cb4",
+			"Name": "Categoría 84b7ff5b-58a5-48e7-a56e-4289b15287b2"
+		}
+	},
+	{
+		"Id": "439d6085-b74a-4dfd-bcc0-b3a9ac54d98f",
+		"Title": "Producto bc5bec38-2ebb-4de0-b4bc-c54bcaa2c3c0",
+		"OriginalPrice": 219,
+		"DiscountPrice": 196,
+		"DiscountPercentage": "63%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "85", "Amount": "19980" },
+		"Rating": { "Rating": 4.9, "Amount": 3800 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 2784 },
+			{ "Rating": "Bad", "Amount": 4610 },
+			{ "Rating": "Regular", "Amount": 4901 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "f3b8a429-3d6d-4ba5-8791-fce677bdcf7c",
+			"Name": "Categoría 930a7575-818c-41a0-84bb-e2f3023e5b9e"
+		}
+	},
+	{
+		"Id": "bf51fe62-0068-4f4d-8328-e6366d902b73",
+		"Title": "Producto 1c16dd66-d48a-46a9-abb5-55840e770804",
+		"OriginalPrice": 297,
+		"DiscountPrice": 86,
+		"DiscountPercentage": "89%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "76", "Amount": "33594" },
+		"Rating": { "Rating": 1.1, "Amount": 954 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 754 },
+			{ "Rating": "Bad", "Amount": 1007 },
+			{ "Rating": "Regular", "Amount": 1619 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "d6d4a49c-a817-4226-92e8-525deddba24a",
+			"Name": "Categoría 48571db9-1911-4fc5-93c7-f5baaf988e85"
+		}
+	},
+	{
+		"Id": "b00f2022-d8b0-4d02-b03f-0814330b8732",
+		"Title": "Producto a3c74e4e-54ff-4632-b100-97728eb7b53b",
+		"OriginalPrice": 212,
+		"DiscountPrice": 98,
+		"DiscountPercentage": "28%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": true,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "83", "Amount": "35633" },
+		"Rating": { "Rating": 4.9, "Amount": 3892 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 1214 },
+			{ "Rating": "Bad", "Amount": 874 },
+			{ "Rating": "Regular", "Amount": 1164 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "8d0388dc-1eda-42c4-8fc3-7f0b06879e63",
+			"Name": "Categoría 4e3adb83-724c-46d3-9b3d-36242c437365"
+		}
+	},
+	{
+		"Id": "d90aced1-e1b1-4cfa-9a8c-2fd02aef4f7e",
+		"Title": "Producto 001e097f-18df-4683-a1b4-5522ec39bfcd",
+		"OriginalPrice": 433,
+		"DiscountPrice": 114,
+		"DiscountPercentage": "59%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "76", "Amount": "12188" },
+		"Rating": { "Rating": 4.8, "Amount": 1012 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 4048 },
+			{ "Rating": "Bad", "Amount": 3708 },
+			{ "Rating": "Regular", "Amount": 1141 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "b28b1113-0f6e-4bf6-be56-ec4f74619d49",
+			"Name": "Categoría 4e50719b-6366-4cd3-b950-00181b345c4d"
+		}
+	},
+	{
+		"Id": "71173d97-cb5c-4070-9d19-0af5a889e7ee",
+		"Title": "Producto 54155535-cc94-41c0-85b4-92cf0731e8e9",
+		"OriginalPrice": 486,
+		"DiscountPrice": 91,
+		"DiscountPercentage": "86%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "77", "Amount": "36201" },
+		"Rating": { "Rating": 2.2, "Amount": 3344 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3495 },
+			{ "Rating": "Bad", "Amount": 325 },
+			{ "Rating": "Regular", "Amount": 2607 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "028edcd4-d942-44d5-b60b-c2b303727b7f",
+			"Name": "Categoría c5e024d5-5865-48a5-a676-3db2c13936f2"
+		}
+	},
+	{
+		"Id": "b7ed3e91-9188-43c1-a070-f0edddd4a82a",
+		"Title": "Producto baafd578-182a-4750-990b-2d8b6f4e2ea1",
+		"OriginalPrice": 341,
+		"DiscountPrice": 96,
+		"DiscountPercentage": "39%",
+		"OfferUrl": "https://example.com",
+		"IsOfferDay": false,
+		"IsAvailable": true,
+		"DeliveryIsFree": "Envío gratis",
+		"Sale": { "Days": "49", "Amount": "41853" },
+		"Rating": { "Rating": 4.2, "Amount": 3163 },
+		"RatingOpinion": [
+			{ "Rating": "Good", "Amount": 3900 },
+			{ "Rating": "Bad", "Amount": 856 },
+			{ "Rating": "Regular", "Amount": 3623 }
+		],
+		"Opinions": [],
+		"Category": {
+			"Id": "a5a45606-dd9d-4777-b19c-732bf5631e0d",
+			"Name": "Categoría aaf5cb38-f0c1-465f-b121-6ddb24e7b884"
+		}
+	}
+]
+}

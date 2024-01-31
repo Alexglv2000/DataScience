@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "Id": "045be2ba-5e28-430d-9ef1-bc2dcd481282",
+      "Title": "Funda Para Samsung Control Smart Tv Bn59 Protector Silicon",
+      "OriginalPrice": 211,
+      "DiscountPrice": 108,
+      "DiscountPercentage": "",
+      "OfferUrl": "https://articulo.mercadolibre.com.mx/MLM-1958820722-...",
+      "IsOfferDay": false,
+      "IsAvailable": true,
+      "DeliveryIsFree": "Llega mañana domingo",
+      "Sale": {
+        "Days": "60",
+        "Amount": "50000"
+      },
+      "Rating": {
+        "Rating": 4.8,
+        "Amount": 1592
+      },
+      "RatingOpinion": {
+        "Rating": "Good",
+        "Amount": 5618
+      },
+      "Opinions": null,
+      "Category": {
+        "Id": "55b0f4a7-82f5-434b-b7bf-b03e452b7344",
+        "Name": "Electronica, Audio y video"
+      }
+    },
+    {
+      "Id": "12345678",
+      "Title": "no se producto inventado",
+      "OriginalPrice": 100,
+      "DiscountPrice": 80,
+      "DiscountPercentage": "20%",
+      "OfferUrl": "https://www.example.com/product1",
+      "IsOfferDay": false,
+      "IsAvailable": true,
+      "DeliveryIsFree": "Llega en 2 días",
+      "Sale": {
+        "Days": "30",
+        "Amount": "20000"
+      },
+      "Rating": {
+        "Rating": 4.5,
+        "Amount": 500
+      },
+      "RatingOpinion": [
+        {
+          "Rating": "Good",
+          "Amount": 300
+        },
+        {
+          "Rating": "Bad",
+          "Amount": 50
+        },
+        {
+          "Rating": "Regular",
+          "Amount": 150
+        }
+      ],
+      "Opinions": [],
+      "Category": {
+        "Id": "abcdefg",
+        "Name": "Electrónica"
+      }
+    },
+
+
+    {
+      "Id": "09876543",
+      "Title": "Audífonos Bluetooth",
+      "OriginalPrice": 150,
+      "DiscountPrice": 120,
+      "DiscountPercentage": "20%",
+      "OfferUrl": "https://www.example.com/audifonos",
+      "IsOfferDay": true,
+      "IsAvailable": true,
+      "DeliveryIsFree": "Envío gratuito",
+      "Sale": {
+        "Days": "30",
+        "Amount": "10000"
+      },
+      "Rating": {
+        "Rating": 4.5,
+        "Amount": 800
+      },
+      "RatingOpinion": [
+        {
+          "Rating": "Good",
+          "Amount": 600
+        },
+        {
+          "Rating": "Bad",
+          "Amount": 40
+        },
+        {
+          "Rating": "Regular",
+          "Amount": 160
+        }
+      ],
+      "Opinions": [],
+      "Category": {
+        "Id": "cdefghij",
+        "Name": "Electrónica"
+      }
+    }
+  ]
+}
